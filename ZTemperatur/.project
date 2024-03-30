@@ -42,9 +42,29 @@
 			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/STMicroelectronics/hardware/stm32/2.6.0/variants/STM32F4xx/F411C(C-E)(U-Y)</locationURI>
 		</link>
 		<link>
+			<name>libraries/ModbusMaster</name>
+			<type>2</type>
+			<locationURI>ECLIPSE_HOME/arduinoPlugin/libraries/ModbusMaster/2.0.1</locationURI>
+		</link>
+		<link>
+			<name>libraries/QuickPID</name>
+			<type>2</type>
+			<locationURI>ECLIPSE_HOME/arduinoPlugin/libraries/QuickPID/3.1.9</locationURI>
+		</link>
+		<link>
+			<name>libraries/SPI</name>
+			<type>2</type>
+			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/STMicroelectronics/hardware/stm32/2.6.0/libraries/SPI</locationURI>
+		</link>
+		<link>
 			<name>libraries/SrcWrapper</name>
 			<type>2</type>
 			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/STMicroelectronics/hardware/stm32/2.6.0/libraries/SrcWrapper</locationURI>
+		</link>
+		<link>
+			<name>libraries/Wire</name>
+			<type>2</type>
+			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/STMicroelectronics/hardware/stm32/2.6.0/libraries/Wire</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>

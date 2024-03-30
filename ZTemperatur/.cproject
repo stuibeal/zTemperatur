@@ -22,6 +22,10 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/ZTemperatur/core/variant}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/ZTemperatur/core/core}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/ZTemperatur/libraries/SrcWrapper/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/ZTemperatur/libraries/ModbusMaster/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/ZTemperatur/libraries/SPI/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/ZTemperatur/libraries/QuickPID/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/ZTemperatur/libraries/Wire/src}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.cpp.sketch.input.1075223623" name="CPP source files" superClass="io.sloeber.compiler.cpp.sketch.input"/>
 							</tool>
@@ -30,6 +34,10 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/ZTemperatur/core/variant}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/ZTemperatur/core/core}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/ZTemperatur/libraries/SrcWrapper/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/ZTemperatur/libraries/ModbusMaster/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/ZTemperatur/libraries/SPI/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/ZTemperatur/libraries/QuickPID/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/ZTemperatur/libraries/Wire/src}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.c.sketch.input.330006857" name="C Source Files" superClass="io.sloeber.compiler.c.sketch.input"/>
 							</tool>
@@ -38,6 +46,10 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/ZTemperatur/core/variant}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/ZTemperatur/core/core}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/ZTemperatur/libraries/SrcWrapper/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/ZTemperatur/libraries/ModbusMaster/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/ZTemperatur/libraries/SPI/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/ZTemperatur/libraries/QuickPID/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/ZTemperatur/libraries/Wire/src}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.S.sketch.input.1606590550" name="Assembly source files" superClass="io.sloeber.compiler.S.sketch.input"/>
 							</tool>
@@ -78,7 +90,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="libraries/?*/**/?xamples/**|libraries/?*/**/?xtras/**|libraries/?*/**/test*/**|libraries/?*/**/third-party/**|libraries/**/._*|libraries/?*/utility/*/*" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="libraries/ModbusMaster/doc|libraries/?*/**/?xamples/**|libraries/?*/**/?xtras/**|libraries/?*/**/test*/**|libraries/?*/**/third-party/**|libraries/**/._*|libraries/?*/utility/*/*" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
