@@ -32,16 +32,6 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>core/core</name>
-			<type>2</type>
-			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/STMicroelectronics/hardware/stm32/2.6.0/cores/arduino</locationURI>
-		</link>
-		<link>
-			<name>core/variant</name>
-			<type>2</type>
-			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/STMicroelectronics/hardware/stm32/2.6.0/variants/STM32F4xx/F411C(C-E)(U-Y)</locationURI>
-		</link>
-		<link>
 			<name>libraries/ModbusMaster</name>
 			<type>2</type>
 			<locationURI>ECLIPSE_HOME/arduinoPlugin/libraries/ModbusMaster/2.0.1</locationURI>
