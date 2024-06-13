@@ -1,0 +1,46 @@
+Configuration	zTempControl
+STM32CubeMX 	6.11.1
+Date	06/12/2024
+MCU	STM32F411CEUx
+
+
+
+PERIPHERALS	MODES	FUNCTIONS	PINS
+
+
+
+Pin Nb	PINs	FUNCTIONs	LABELs
+26	PB13	GPIO_Output	
+PERIPHERALS	MODES	FUNCTIONS	PINS
+
+
+
+Pin Nb	PINs	FUNCTIONs	LABELs
+26	PB13	GPIO_Output	
+
+
+
+SOFTWARE PROJECT
+
+Project Settings : 
+Project Name : zTempControl
+Project Folder : /home/al/STM32CubeIDE/workspace_1.15.1/zTempControl
+Toolchain / IDE : STM32CubeIDE
+Firmware Package Name and Version : STM32Cube FW_F4 V1.28.0
+
+
+Code Generation Settings : 
+STM32Cube MCU packages and embedded software packs : Copy only the necessary library files
+Generate peripheral initialization as a pair of '.c/.h' files per peripheral : No
+Backup previously generated files when re-generating : No
+Delete previously generated files when not re-generated : Yes
+Set all free pins as analog (to optimize the power consumption) : No
+
+
+Toolchains Settings : 
+Compiler Optimizations : 
+
+
+
+
+
